@@ -48,3 +48,17 @@ BuzzWrite/
 cd backend
 # Configure MySQL credentials in application.properties
 ./mvnw spring-boot:run
+
+```
+## 🧪  Configure MySQL database
+
+```spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/BuzzWrite
+    username: yourUsername
+    password: yourPassword
+```
+
+## 📬 Contact
+📧 saurabh.kumar20010218@gmail.com
+🔗 GitHub: KSaurabh2001
